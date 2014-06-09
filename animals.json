@@ -1,0 +1,931 @@
+{
+  "animals": [
+    {
+      "species":"Aardvark",
+      "legs": 4,
+      "class": "mammal",
+      "continents": ["Africa"],
+      "house": false,
+      "fur": false,
+      "flying": false,
+      "land": true,
+      "herbivore": false,
+      "adorable": false,
+      "ruminant": false,
+      "weight": 80000,
+      "length": 130,
+      "habitat": [],
+      "claws": true,
+      "fear": false,
+      "nocturnal": true,
+      "wingspan": 0,
+      "horror": { "isIt": false },
+      "bond": { "isIt": false },
+      "disney": { "isIt": false },
+      "mascot": { "isIt": false },
+      "tail": true
+    },
+    {
+      "species": "Albatross",
+      "legs": 2,
+      "class": "bird",
+      "continents": ["Africa", "North America", "South America", "Antarctica", "Europe", "Asia", "Australia"],
+      "house": false,
+      "fur": false,
+      "flying": true,
+      "land": true,
+      "herbivore": false,
+      "adorable": true,
+      "ruminant": false,
+      "weight": 10000,
+      "length": 130,
+      "habitat": ["ocean"],
+      "claws": false,
+      "fear": false,
+      "nocturnal": false,
+      "wingspan": 340,
+      "horror": { "isIt": false },
+      "bond": { "isIt": false },
+      "disney": { "isIt": true, "which": ["Orville- The Rescuers Down Under"] },
+      "mascot": { "isIt": false },
+      "tail": false
+    },
+    {
+      "species": "Alligator",
+      "legs": 4,
+      "class": "reptile",
+      "continents": ["North America", "Asia"],
+      "house": false,
+      "fur": false,
+      "flying": false,
+      "land": true,
+      "herbivore": false,
+      "adorable": false,
+      "ruminant": false,
+      "weight": 453000,
+      "length": 460,
+      "habitat": ["swamp"],
+      "claws": false,
+      "fear": false,
+      "nocturnal": false,
+      "wingspan": 0,
+      "horror": { "isIt": true, "which": ["Alligator, 1980"] },
+      "bond": { "isIt": false },
+      "disney": { "isIt": true, "which": ["Louis- The Princess and the Frog"] },
+      "mascot": { "isIt": true, "which": ["Albert E. Gator, University of Florida", "Chompers, Allegheny College", "Lafitte, University of New Orleans"] },
+      "tail": true
+    },
+    {
+      "species": "Alpaca",
+      "legs": 4,
+      "class": "mammal",
+      "continents": ["South America"],
+      "house": false,
+      "fur": true,
+      "flying": false,
+      "land": true,
+      "herbivore": true,
+      "adorable": true,
+      "ruminant": true,
+      "weight": 84000,
+      "length": 130,
+      "habitat": [],
+      "claws": false,
+      "fear": false,
+      "nocturnal": false,
+      "wingspan": 0,
+      "horror": { "isIt": false },
+      "bond": { "isIt": false },
+      "disney": { "isIt": false },
+      "mascot": { "isIt": false },
+      "tail": true
+    },
+    {
+      "species": "Ant",
+      "legs": 6,
+      "class": "arthropod",
+      "continents": ["Africa", "North America", "South America", "Antarctica", "Europe", "Asia", "Australia"],
+      "house": false,
+      "fur": false,
+      "flying": false,
+      "land": true,
+      "herbivore": false,
+      "adorable": false,
+      "ruminant": false,
+      "weight": .005,
+      "length": 2.5,
+      "habitat": [],
+      "claws": false,
+      "fear": false,
+      "nocturnal": false,
+      "wingspan": 0,
+      "horror": { "isIt": true, "which": ["Empire of the Ants, 1977","It Happened at Lakewood Manor/Ants, 1977", "The Naked Jungle, 1954", "Phase IV, 1974", "Them!, 1954", "Legion of Fire: Killer Ants!, 1998", "The Bone Snatcher, 2003", "The Hive, 2008"] },
+      "bond": { "isIt": false },
+      "disney": { "isIt": true, "which": ["Flik & Atta, Bugs Life"] },
+      "mascot": { "isIt": false },
+      "tail": false
+    },
+    {
+      "species": "Anteater",
+      "legs": 4,
+      "class": "mammal",
+      "continents": ["South America", "Central America"],
+      "house": false,
+      "fur": true,
+      "flying": false,
+      "land": true,
+      "herbivore": false,
+      "adorable": true,
+      "ruminant": false,
+      "weight": 41000,
+      "length": 217,
+      "habitat": [],
+      "claws": true,
+      "fear": false,
+      "nocturnal": false,
+      "wingspan": 0,
+      "horror": { "isIt": false },
+      "bond": { "isIt": false },
+      "disney": { "isIt": false },
+      "mascot": { "isIt": true, "which": ["Peter the Anteater, UC Irvine"] },
+      "tail": true
+    },
+    {
+      "species": "Antelope",
+      "legs": 4,
+      "class": "mammal",
+      "continents": ["Africa", "Asia"],
+      "house": false,
+      "fur": true,
+      "flying": false,
+      "land": true,
+      "herbivore": true,
+      "adorable": true,
+      "ruminant": true,
+      "weight": 65000,
+      "length": 150,
+      "habitat": [],
+      "claws": false,
+      "fear": false,
+      "nocturnal": false,
+      "wingspan": 0,
+      "horror": { "isIt": false },
+      "bond": { "isIt": false },
+      "disney": { "isIt": false },
+      "mascot": { "isIt": false },
+      "tail": true
+    },
+    {
+      "species": "Ape",
+      "legs": 4,
+      "class": "mammal",
+      "continents": ["Africa", "Asia"],
+      "house": false,
+      "fur": true,
+      "flying": false,
+      "land": true,
+      "herbivore": false,
+      "adorable": true,
+      "ruminant": false,
+      "weight": 75000,
+      "length": 83,
+      "habitat": ["jungle"],
+      "claws": false,
+      "fear": true,
+      "nocturnal": false,
+      "wingspan": 0,
+      "horror": { "isIt": true, "which": ["King Kong, 1933", "King Kong, 2005", "Congo, 1995", "Link, 1986", "Night of the Bloody Apes, 1976" ] },
+      "bond": { "isIt": false },
+      "disney": { "isIt": true, "which": ["Pretty much everyone, Tarzan", "King Louie, The Jungle Book"] },
+      "mascot": { "isIt": true, "which": ["Gus the Gorilla, Pittsburgh State University"] },
+      "tail": false
+    },
+    {
+      "species": "Armadillo"
+    },
+    {
+      "species": "Ass/Donkey"
+    },
+    {
+      "species": "Baboon"
+    },
+    {
+      "species": "Badger"
+    },
+    {
+      "species": "Barracuda"
+    },
+    {
+      "species": "Bat"
+    },
+    {
+      "species": "Bear"
+    },
+    {
+      "species": "Beaver"
+    },
+    {
+      "species": "Bee"
+    },
+    {
+      "species": "Bison"
+    },
+    {
+      "species": "Boar (wild pig)"
+    },
+    {
+      "species": "Also see Pig"
+    },
+    {
+      "species": "Buffalo, African (for American buffalo, see Bison)"
+    },
+    {
+      "species": "Butterfly"
+    },
+    {
+      "species": "Camel"
+    },
+    {
+      "species": "Capybara"
+    },
+    {
+      "species": "Caribou"
+    },
+    {
+      "species": "Cassowary"
+    },
+    {
+      "species": "Cat"
+    },
+    {
+      "species": "Caterpillar"
+    },
+    {
+      "species": "Cattle"
+    },
+    {
+      "species": "Chamois"
+    },
+    {
+      "species": "Cheetah"
+    },
+    {
+      "species": "Chicken"
+    },
+    {
+      "species": "Chimpanzee"
+    },
+    {
+      "species": "Chinchilla"
+    },
+    {
+      "species": "Chough"
+    },
+    {
+      "species": "Clam"
+    },
+    {
+      "species": "Cobra"
+    },
+    {
+      "species": "Cockroach"
+    },
+    {
+      "species": "Cod"
+    },
+    {
+      "species": "Cormorant"
+    },
+    {
+      "species": "Coyote"
+    },
+    {
+      "species": "Crab"
+    },
+    {
+      "species": "Crane"
+    },
+    {
+      "species": "Crocodile"
+    },
+    {
+      "species": "Crow"
+    },
+    {
+      "species": "Curlew"
+    },
+    {
+      "species": "Deer"
+    },
+    {
+      "species": "Dinosaur"
+    },
+    {
+      "species": "Dog"
+    },
+    {
+      "species": "Dogfish"
+    },
+    {
+      "species": "Dolphin"
+    },
+    {
+      "species": "Donkey - See Ass"
+    },
+    {
+      "species": "Dotterel"
+    },
+    {
+      "species": "Dove"
+    },
+    {
+      "species": "Dragonfly"
+    },
+    {
+      "species": "Duck"
+    },
+    {
+      "species": "Also see Mallard"
+    },
+    {
+      "species": "Dugong"
+    },
+    {
+      "species": "Dunlin"
+    },
+    {
+      "species": "Eagle"
+    },
+    {
+      "species": "Echidna"
+    },
+    {
+      "species": "Eel"
+    },
+    {
+      "species": "Eland"
+    },
+    {
+      "species": "Elephant"
+    },
+    {
+      "species": "Elephant seal"
+    },
+    {
+      "species": "Elk (wapiti)"
+    },
+    {
+      "species": "Emu"
+    },
+    {
+      "species": "Falcon"
+    },
+    {
+      "species": "Ferret"
+    },
+    {
+      "species": "Finch"
+    },
+    {
+      "species": "Fish"
+    },
+    {
+      "species": "Flamingo"
+    },
+    {
+      "species": "Fly"
+    },
+    {
+      "species": "Fox"
+    },
+    {
+      "species": "Frog"
+    },
+    {
+      "species": "Gaur"
+    },
+    {
+      "species": "Gazelle"
+    },
+    {
+      "species": "Gerbil"
+    },
+    {
+      "species": "Giant Panda"
+    },
+    {
+      "species": "Giraffe"
+    },
+    {
+      "species": "Gnat"
+    },
+    {
+      "species": "Gnu"
+    },
+    {
+      "species": "Goat"
+    },
+    {
+      "species": "Goose"
+    },
+    {
+      "species": "Goldfinch"
+    },
+    {
+      "species": "Goldfish"
+    },
+    {
+      "species": "Gorilla",
+      "legs": 4,
+      "class": "mammal",
+      "continents": ["Africa", "Asia"],
+      "house": false,
+      "fur": true,
+      "flying": false,
+      "land": true,
+      "herbivore": false,
+      "adorable": true,
+      "ruminant": false,
+      "weight": 75000,
+      "length": 83,
+      "habitat": ["jungle"],
+      "claws": false,
+      "fear": true,
+      "nocturnal": false,
+      "wingspan": 0,
+      "horror": { "isIt": true, "which": ["King Kong, 1933", "King Kong, 2005", "Congo, 1995"] },
+      "bond": { "isIt": false },
+      "disney": { "isIt": true, "which": ["Pretty much everyone, Tarzan"] },
+      "mascot": { "isIt": true, "which": ["Gus the Gorilla, Pittsburgh State University"] },
+      "tail":
+    },
+    {
+      "species": "Goshawk"
+    },
+    {
+      "species": "Grasshopper"
+    },
+    {
+      "species": "Grouse"
+    },
+    {
+      "species": "Guanaco"
+    },
+    {
+      "species": "Guinea fowl"
+    },
+    {
+      "species": "Guinea pig"
+    },
+    {
+      "species": "Gull"
+    },
+    {
+      "species": "Hamster"
+    },
+    {
+      "species": "Hare"
+    },
+    {
+      "species": "Hawk"
+    },
+    {
+      "species": "Hedgehog"
+    },
+    {
+      "species": "Heron"
+    },
+    {
+      "species": "Herring"
+    },
+    {
+      "species": "Hippopotamus"
+    },
+    {
+      "species": "Hornet"
+    },
+    {
+      "species": "Horse"
+    },
+    {
+      "species": "Human"
+    },
+    {
+      "species": "Hummingbird"
+    },
+    {
+      "species": "Hyena"
+    },
+    {
+      "species": "Ibex"
+    },
+    {
+      "species": "Ibis"
+    },
+    {
+      "species": "Jackal"
+    },
+    {
+      "species": "Jaguar"
+    },
+    {
+      "species": "Jay"
+    },
+    {
+      "species": "Jay, Blue"
+    },
+    {
+      "species": "Jellyfish"
+    },
+    {
+      "species": "Kangaroo"
+    },
+    {
+      "species": "Kingfisher"
+    },
+    {
+      "species": "Koala"
+    },
+    {
+      "species": "Komodo dragon"
+    },
+    {
+      "species": "Kookabura"
+    },
+    {
+      "species": "Kouprey"
+    },
+    {
+      "species": "Kudu"
+    },
+    {
+      "species": "Lapwing"
+    },
+    {
+      "species": "Lark"
+    },
+    {
+      "species": "Lemur"
+    },
+    {
+      "species": "Leopard"
+    },
+    {
+      "species": "Lion"
+    },
+    {
+      "species": "Llama"
+    },
+    {
+      "species": "Lobster"
+    },
+    {
+      "species": "Locust"
+    },
+    {
+      "species": "Loris"
+    },
+    {
+      "species": "Louse"
+    },
+    {
+      "species": "Lyrebird"
+    },
+    {
+      "species": "Magpie"
+    },
+    {
+      "species": "Mallard"
+    },
+    {
+      "species": "Also see Duck"
+    },
+    {
+      "species": "Manatee"
+    },
+    {
+      "species": "Mandrill"
+    },
+    {
+      "species": "Mantis"
+    },
+    {
+      "species": "Marten"
+    },
+    {
+      "species": "Meerkat"
+    },
+    {
+      "species": "Mink"
+    },
+    {
+      "species": "Mole"
+    },
+    {
+      "species": "Mongoose"
+    },
+    {
+      "species": "Monkey"
+    },
+    {
+      "species": "Moose"
+    },
+    {
+      "species": "Mouse"
+    },
+    {
+      "species": "Mosquito"
+    },
+    {
+      "species": "Mule"
+    },
+    {
+      "species": "Narwhal"
+    },
+    {
+      "species": "Newt"
+    },
+    {
+      "species": "Nightingale"
+    },
+    {
+      "species": "Octopus"
+    },
+    {
+      "species": "Okapi"
+    },
+    {
+      "species": "Opossum"
+    },
+    {
+      "species": "Oryx"
+    },
+    {
+      "species": "Ostrich"
+    },
+    {
+      "species": "Otter"
+    },
+    {
+      "species": "Owl"
+    },
+    {
+      "species": "Ox"
+    },
+    {
+      "species": "Oyster"
+    },
+    {
+      "species": "Panther"
+    },
+    {
+      "species": "Parrot"
+    },
+    {
+      "species": "Partridge"
+    },
+    {
+      "species": "Peafowl"
+    },
+    {
+      "species": "Pelican"
+    },
+    {
+      "species": "Penguin"
+    },
+    {
+      "species": "Pheasant"
+    },
+    {
+      "species": "Pig"
+    },
+    {
+      "species": "Also see Boar"
+    },
+    {
+      "species": "Pigeon"
+    },
+    {
+      "species": "Polar Bear"
+    },
+    {
+      "species": "Pony- See Horse"
+    },
+    {
+      "species": "Porcupine"
+    },
+    {
+      "species": "Porpoise"
+    },
+    {
+      "species": "Prairie Dog"
+    },
+    {
+      "species": "Quail"
+    },
+    {
+      "species": "Quelea"
+    },
+    {
+      "species": "Quetzal"
+    },
+    {
+      "species": "Rabbit"
+    },
+    {
+      "species": "Raccoon"
+    },
+    {
+      "species": "Rail"
+    },
+    {
+      "species": "Ram"
+    },
+    {
+      "species": "Also see Sheep"
+    },
+    {
+      "species": "Rat"
+    },
+    {
+      "species": "Raven"
+    },
+    {
+      "species": "Red deer"
+    },
+    {
+      "species": "Red panda"
+    },
+    {
+      "species": "Reindeer (caribou)"
+    },
+    {
+      "species": "Rhinoceros"
+    },
+    {
+      "species": "Rook"
+    },
+    {
+      "species": "Salamander"
+    },
+    {
+      "species": "Salmon"
+    },
+    {
+      "species": "Sand Dollar"
+    },
+    {
+      "species": "Sandpiper"
+    },
+    {
+      "species": "Sardine"
+    },
+    {
+      "species": "Scorpion"
+    },
+    {
+      "species": "Sea lion"
+    },
+    {
+      "species": "Sea Urchin"
+    },
+    {
+      "species": "Seahorse"
+    },
+    {
+      "species": "Seal"
+    },
+    {
+      "species": "Shark"
+    },
+    {
+      "species": "Sheep"
+    },
+    {
+      "species": "Also see Ram"
+    },
+    {
+      "species": "Shrew"
+    },
+    {
+      "species": "Skunk"
+    },
+    {
+      "species": "Snail"
+    },
+    {
+      "species": "Snake"
+    },
+    {
+      "species": "Sparrow"
+    },
+    {
+      "species": "Spider"
+    },
+    {
+      "species": "Spoonbill"
+    },
+    {
+      "species": "Squid"
+    },
+    {
+      "species": "Squirrel"
+    },
+    {
+      "species": "Starling"
+    },
+    {
+      "species": "Stingray"
+    },
+    {
+      "species": "Stinkbug"
+    },
+    {
+      "species": "Stork"
+    },
+    {
+      "species": "Swallow"
+    },
+    {
+      "species": "Swan"
+    },
+    {
+      "species": "Tapir"
+    },
+    {
+      "species": "Tarsier"
+    },
+    {
+      "species": "Termite"
+    },
+    {
+      "species": "Tiger"
+    },
+    {
+      "species": "Toad"
+    },
+    {
+      "species": "Trout"
+    },
+    {
+      "species": "Turkey"
+    },
+    {
+      "species": "Turtle"
+    },
+    {
+      "species": "Vicuña"
+    },
+    {
+      "species": "Viper"
+    },
+    {
+      "species": "Vulture"
+    },
+    {
+      "species": "Wallaby"
+    },
+    {
+      "species": "Walrus"
+    },
+    {
+      "species": "Wasp"
+    },
+    {
+      "species": "Water buffalo"
+    },
+    {
+      "species": "Weasel"
+    },
+    {
+      "species": "Whale"
+    },
+    {
+      "species": "Wolf"
+    },
+    {
+      "species": "Wolverine"
+    },
+    {
+      "species": "Wombat"
+    },
+    {
+      "species": "Woodcock"
+    },
+    {
+      "species": "Woodpecker"
+    },
+    {
+      "species": "Worm"
+    },
+    {
+      "species": "Wren"
+    },
+    {
+      "species": "Yak"
+    },
+    {
+      "species": "Zebra"
+    }
+  ]
+}
