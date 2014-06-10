@@ -112,7 +112,7 @@
       "herbivore": false,
       "adorable": false,
       "ruminant": false,
-      "weight": .005,
+      "weight": 0,
       "length": 2.5,
       "habitat": [],
       "claws": false,
@@ -457,7 +457,7 @@
       "bond": { "isIt": false },
       "disney": { "isIt": true, "which": ["Pretty much everyone, Tarzan"] },
       "mascot": { "isIt": true, "which": ["Gus the Gorilla, Pittsburgh State University"] },
-      "tail":
+      "tail": false
     },
     {
       "species": "Goshawk"
