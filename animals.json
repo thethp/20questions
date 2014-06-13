@@ -18,7 +18,10 @@
       "bond": false,
       "disney": false,
       "mascot": false,
-      "tail": true
+      "tail": true,
+      "antlers": false,
+      "stripes": false,
+      "horns": false
     },
     {
       "species": "Albatross",
@@ -37,9 +40,11 @@
       "horror": false,
       "bond": false,
       "disney": true,
-      "disneywhich": ["Orville- The Rescuers Down Under"],
       "mascot": false,
-      "tail": false
+      "tail": false,
+      "antlers": false,
+      "stripes": false,
+      "horns": false
     },
     {
       "species": "Alligator",
@@ -59,10 +64,11 @@
       "horrorwhich": ["Alligator, 1980"],
       "bond": false,
       "disney": true,
-      "disneywhich": ["Louis- The Princess and the Frog"],
       "mascot": true,
-      "mascotwhich": ["Albert E. Gator, University of Florida", "Chompers, Allegheny College", "Lafitte, University of New Orleans"],
-      "tail": true
+      "tail": true,
+      "antlers": false,
+      "stripes": false,
+      "horns": false
     },
     {
       "species": "Alpaca",
@@ -82,7 +88,10 @@
       "bond": false,
       "disney": false,
       "mascot": false,
-      "tail": true
+      "tail": true,
+      "antlers": false,
+      "stripes": false,
+      "horns": false
     },
     {
       "species": "Ant",
@@ -99,12 +108,13 @@
       "fear": false,
       "nocturnal": false,
       "horror": true,
-      "horrorwhich": ["Empire of the Ants, 1977","It Happened at Lakewood Manor/Ants, 1977", "The Naked Jungle, 1954", "Phase IV, 1974", "Them!, 1954", "Legion of Fire: Killer Ants!, 1998", "The Bone Snatcher, 2003", "The Hive, 2008"],
       "bond": false,
       "disney": true,
-      "disneywhich": ["Flik & Atta, Bugs Life"],
       "mascot": false,
-      "tail": false
+      "tail": false,
+      "antlers": false,
+      "stripes": false,
+      "horns": false
     },
     {
       "species": "Anteater",
@@ -124,8 +134,10 @@
       "bond": false,
       "disney": false,
       "mascot": true,
-      "mascotwhich": ["Peter the Anteater, UC Irvine"],
-      "tail": true
+      "tail": true,
+      "antlers": false,
+      "stripes": false,
+      "horns": false
     },
     {
       "species": "Antelope",
@@ -145,7 +157,10 @@
       "bond": false,
       "disney": false,
       "mascot": false,
-      "tail": true
+      "tail": true,
+      "antlers": true,
+      "stripes": false,
+      "horns": false
     },
     {
       "species": "Ape",
@@ -162,13 +177,13 @@
       "fear": true,
       "nocturnal": false,
       "horror": true,
-      "horrorwhich": ["King Kong, 1933", "King Kong, 2005", "Congo, 1995", "Link, 1986", "Night of the Bloody Apes, 1976" ],
       "bond": false,
       "disney": true,
-      "disneywhich": ["Pretty much everyone, Tarzan", "King Louie, The Jungle Book"],
       "mascot": true,
-      "mascotwhich": ["Gus the Gorilla, Pittsburgh State University"],
-      "tail": false
+      "tail": false,
+      "antlers": false,
+      "stripes": false,
+      "horns": false
     },
     {
       "species": "Armadillo"
@@ -419,13 +434,13 @@
       "fear": true,
       "nocturnal": false,
       "horror": true,
-      "horrorwhich": ["King Kong, 1933", "King Kong, 2005", "Congo, 1995"],
       "bond": false,
       "disney": true,
-      "disneywhich": ["Pretty much everyone, Tarzan"],
       "mascot": true,
-      "mascotwhich": ["Gus the Gorilla, Pittsburgh State University"],
-      "tail": false
+      "tail": false,
+      "antlers": false,
+      "stripes": false,
+      "horns": false
     },
     {
       "species": "Goshawk"
@@ -887,13 +902,73 @@
       "species": "Worm"
     },
     {
-      "species": "Wren"
+      "species": "Wren",
+      "legs": 2,
+      "class": "bird",
+      "house": false,
+      "fur": true,
+      "flying": false,
+      "land": true,
+      "herbivore": false,
+      "adorable": true,
+      "ruminant": false,
+      "claws": false,
+      "fear": false,
+      "nocturnal": false,
+      "horror": false,
+      "bond": false,
+      "disney": false,
+      "mascot": false,
+      "tail": true,
+      "antlers": false,
+      "stripes": false,
+      "horns": false
     },
     {
-      "species": "Yak"
+      "species": "Yak",
+      "legs": 4,
+      "class": "mammal",
+      "house": false,
+      "fur": false,
+      "flying": true,
+      "land": true,
+      "herbivore": false,
+      "adorable": true,
+      "ruminant": true,
+      "claws": false,
+      "fear": false,
+      "nocturnal": false,
+      "horror": false,
+      "bond": false,
+      "disney": false,
+      "mascot": false,
+      "tail": true,
+      "antlers": false,
+      "stripes": false,
+      "horns": true
     },
     {
-      "species": "Zebra"
+      "species": "Zebra",
+      "legs": 4,
+      "class": "mammal",
+      "house": false,
+      "fur": true,
+      "flying": false,
+      "land": true,
+      "herbivore": true,
+      "adorable": true,
+      "ruminant": false,
+      "claws": false,
+      "fear": false,
+      "nocturnal": false,
+      "horror": false,
+      "bond": false,
+      "disney": false,
+      "mascot": false,
+      "tail": true,
+      "antlers": false,
+      "stripes": true,
+      "horns": false
     }
   ]
 }
